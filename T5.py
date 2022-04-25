@@ -6,7 +6,7 @@ import pyperclip as pc
 
 win=tk.Tk()
 
-win.geometry('400x400+500+500') # '視窗x視窗y+座標x+座標y'
+win.geometry('400x400+500+300') # '視窗x視窗y+座標x+座標y'
 win.config(bg='#323232')
 win.title('教學5實例')
 
